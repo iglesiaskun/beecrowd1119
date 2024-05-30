@@ -15,7 +15,7 @@ enum Direction {
     ANTIHORARIO
 }
 
-public class FilaDeDesempregados {
+public class FilaDesempregados {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
